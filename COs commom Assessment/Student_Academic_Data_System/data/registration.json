@@ -1,0 +1,1814 @@
+[
+  {
+    "Student_ID": "S120",
+    "Course": "Communication Systems",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S137",
+    "Course": "Computer Networks",
+    "Credits": 2,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S007",
+    "Course": "Data Structures",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S010",
+    "Course": "Machine Learning",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S054",
+    "Course": "Signals",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S106",
+    "Course": "Manufacturing",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S101",
+    "Course": "AI",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S018",
+    "Course": "Embedded Systems",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S098",
+    "Course": "CAD",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S004",
+    "Course": "DBMS",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S020",
+    "Course": "Operating Systems",
+    "Credits": "",
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S014",
+    "Course": "Computer Networks",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S016",
+    "Course": "DBMS",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S071",
+    "Course": "Operating Systems",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S085",
+    "Course": "Machines",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S092",
+    "Course": "Geotechnical",
+    "Credits": 4,
+    "Semester": ""
+  },
+  {
+    "Student_ID": "S117",
+    "Course": "Structural Analysis",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S019",
+    "Course": "Fluid Mechanics",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S037",
+    "Course": "Power Systems",
+    "Credits": 3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S123",
+    "Course": "Transportation",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S128",
+    "Course": "Operating Systems",
+    "Credits": -3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S071",
+    "Course": "Operating Systems",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S055",
+    "Course": "Data Mining",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S036",
+    "Course": "Communication Systems",
+    "Credits": 3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S022",
+    "Course": "Computer Networks",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S092",
+    "Course": "Geotechnical",
+    "Credits": "",
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S142",
+    "Course": "Machine Design",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S147",
+    "Course": "Control Systems",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S008",
+    "Course": "Power Electronics",
+    "Credits": 2,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S081",
+    "Course": "Software Engineering",
+    "Credits": 2,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S063",
+    "Course": "Transportation",
+    "Credits": 2,
+    "Semester": ""
+  },
+  {
+    "Student_ID": "S022",
+    "Course": "DBMS",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S093",
+    "Course": "CAD",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S068",
+    "Course": "Cyber Security",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S121",
+    "Course": "Heat Transfer",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S011",
+    "Course": "Algorithms",
+    "Credits": 0,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S141",
+    "Course": "Environmental",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S002",
+    "Course": "DSP",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S006",
+    "Course": "Power Systems",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S114",
+    "Course": "Computer Networks",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S020",
+    "Course": "Machine Learning",
+    "Credits": "",
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S107",
+    "Course": "DSP",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S142",
+    "Course": "Fluid Mechanics",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S098",
+    "Course": "CAD",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S117",
+    "Course": "Surveying",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S068",
+    "Course": "Cyber Security",
+    "Credits": 3,
+    "Semester": ""
+  },
+  {
+    "Student_ID": "S116",
+    "Course": "Cyber Security",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S102",
+    "Course": "Power Electronics",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S044",
+    "Course": "Fluid Mechanics",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S064",
+    "Course": "Machines",
+    "Credits": 2,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S145",
+    "Course": "Environmental",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S133",
+    "Course": "Data Mining",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S077",
+    "Course": "Hydraulics",
+    "Credits": 2,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S108",
+    "Course": "CAD",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S083",
+    "Course": "Hydraulics",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S079",
+    "Course": "Cloud Computing",
+    "Credits": "",
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S127",
+    "Course": "VLSI",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S090",
+    "Course": "Digital Electronics",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S074",
+    "Course": "Control Systems",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S055",
+    "Course": "Cyber Security",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S100",
+    "Course": "Machine Learning",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S028",
+    "Course": "Machine Learning",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S122",
+    "Course": "Operating Systems",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S087",
+    "Course": "Data Structures",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S036",
+    "Course": "VLSI",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S085",
+    "Course": "Control Systems",
+    "Credits": 2,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S027",
+    "Course": "Digital Electronics",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S114",
+    "Course": "Data Structures",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S104",
+    "Course": "VLSI",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S098",
+    "Course": "CAD",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S043",
+    "Course": "Signals",
+    "Credits": "",
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S046",
+    "Course": "Power Electronics",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S127",
+    "Course": "DSP",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S054",
+    "Course": "Embedded Systems",
+    "Credits": 2,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S100",
+    "Course": "Machine Learning",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S079",
+    "Course": "Data Mining",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S028",
+    "Course": "Data Structures",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S088",
+    "Course": "Web Technologies",
+    "Credits": 3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S043",
+    "Course": "VLSI",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S003",
+    "Course": "Machine Learning",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S006",
+    "Course": "Machines",
+    "Credits": "five",
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S033",
+    "Course": "Control Systems",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S066",
+    "Course": "CAD",
+    "Credits": 3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S099",
+    "Course": "Signals",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S150",
+    "Course": "Operating Systems",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S120",
+    "Course": "Communication Systems",
+    "Credits": 3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S105",
+    "Course": "Structural Analysis",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S038",
+    "Course": "Manufacturing",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S128",
+    "Course": "Algorithms",
+    "Credits": 2,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S145",
+    "Course": "Transportation",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S041",
+    "Course": "Circuit Theory",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S040",
+    "Course": "Data Structures",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S002",
+    "Course": "Digital Electronics",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S062",
+    "Course": "Algorithms",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S038",
+    "Course": "Heat Transfer",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S096",
+    "Course": "Machines",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S067",
+    "Course": "Embedded Systems",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S073",
+    "Course": "Circuit Theory",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S082",
+    "Course": "Transportation",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S150",
+    "Course": "Operating Systems",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S127",
+    "Course": "Communication Systems",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S053",
+    "Course": "Cyber Security",
+    "Credits": 2,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S096",
+    "Course": "Circuit Theory",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S103",
+    "Course": "AI",
+    "Credits": 2,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S022",
+    "Course": "Computer Networks",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S141",
+    "Course": "Hydraulics",
+    "Credits": 3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S010",
+    "Course": "Operating Systems",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S114",
+    "Course": "Operating Systems",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S097",
+    "Course": "Digital Electronics",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S133",
+    "Course": "Cyber Security",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S142",
+    "Course": "Thermodynamics",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S010",
+    "Course": "Data Structures",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S148",
+    "Course": "Power Systems",
+    "Credits": 2,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S120",
+    "Course": "Communication Systems",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S057",
+    "Course": "Digital Electronics",
+    "Credits": 2,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S130",
+    "Course": "Web Technologies",
+    "Credits": 2,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S006",
+    "Course": "EMF",
+    "Credits": 3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S127",
+    "Course": "Digital Electronics",
+    "Credits": 2,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S071",
+    "Course": "DBMS",
+    "Credits": 2,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S059",
+    "Course": "Geotechnical",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S106",
+    "Course": "Thermodynamics",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S122",
+    "Course": "DBMS",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S018",
+    "Course": "VLSI",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S142",
+    "Course": "Fluid Mechanics",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S051",
+    "Course": "Cloud Computing",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S022",
+    "Course": "DBMS",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S122",
+    "Course": "Machine Learning",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S057",
+    "Course": "VLSI",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S053",
+    "Course": "Cyber Security",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S037",
+    "Course": "Power Electronics",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S137",
+    "Course": "Algorithms",
+    "Credits": 2,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S063",
+    "Course": "Environmental",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S037",
+    "Course": "Power Electronics",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S100",
+    "Course": "Operating Systems",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S129",
+    "Course": "Cloud Computing",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S028",
+    "Course": "DBMS",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S042",
+    "Course": "Thermodynamics",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S040",
+    "Course": "Algorithms",
+    "Credits": 3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S073",
+    "Course": "Power Electronics",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S074",
+    "Course": "EMF",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S062",
+    "Course": "Operating Systems",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S090",
+    "Course": "Communication Systems",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S036",
+    "Course": "Digital Electronics",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S105",
+    "Course": "Transportation",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S099",
+    "Course": "Signals",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S102",
+    "Course": "Machines",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S013",
+    "Course": "Web Technologies",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S114",
+    "Course": "Algorithms",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S109",
+    "Course": "AI",
+    "Credits": 3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S061",
+    "Course": "Digital Electronics",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S110",
+    "Course": "Cloud Computing",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S040",
+    "Course": "Computer Networks",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S112",
+    "Course": "Data Mining",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S135",
+    "Course": "AI",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S052",
+    "Course": "VLSI",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S101",
+    "Course": "Software Engineering",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S132",
+    "Course": "DBMS",
+    "Credits": 2,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S122",
+    "Course": "Operating Systems",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S132",
+    "Course": "DBMS",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S098",
+    "Course": "Manufacturing",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S070",
+    "Course": "Embedded Systems",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S095",
+    "Course": "Manufacturing",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S065",
+    "Course": "AI",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S095",
+    "Course": "Thermodynamics",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S147",
+    "Course": "EMF",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S024",
+    "Course": "Data Mining",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S013",
+    "Course": "AI",
+    "Credits": 2,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S009",
+    "Course": "DBMS",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S033",
+    "Course": "Control Systems",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S004",
+    "Course": "Data Structures",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S148",
+    "Course": "EMF",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S039",
+    "Course": "Heat Transfer",
+    "Credits": 2,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S004",
+    "Course": "Data Structures",
+    "Credits": 2,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S061",
+    "Course": "Digital Electronics",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S048",
+    "Course": "DBMS",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S020",
+    "Course": "Algorithms",
+    "Credits": 2,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S083",
+    "Course": "Geotechnical",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S099",
+    "Course": "Digital Electronics",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S075",
+    "Course": "CAD",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S028",
+    "Course": "Algorithms",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S141",
+    "Course": "Geotechnical",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S114",
+    "Course": "Computer Networks",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S006",
+    "Course": "Circuit Theory",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S007",
+    "Course": "Data Structures",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S131",
+    "Course": "Machines",
+    "Credits": 2,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S139",
+    "Course": "Algorithms",
+    "Credits": 2,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S122",
+    "Course": "Operating Systems",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S093",
+    "Course": "CAD",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S103",
+    "Course": "AI",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S086",
+    "Course": "Cloud Computing",
+    "Credits": 2,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S039",
+    "Course": "Thermodynamics",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S128",
+    "Course": "Data Structures",
+    "Credits": 2,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S146",
+    "Course": "Web Technologies",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S095",
+    "Course": "Manufacturing",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S098",
+    "Course": "Fluid Mechanics",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S054",
+    "Course": "Communication Systems",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S073",
+    "Course": "Control Systems",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S053",
+    "Course": "Cyber Security",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S107",
+    "Course": "Signals",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S028",
+    "Course": "Data Structures",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S028",
+    "Course": "Machine Learning",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S129",
+    "Course": "Web Technologies",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S066",
+    "Course": "Fluid Mechanics",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S026",
+    "Course": "Digital Electronics",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S120",
+    "Course": "Signals",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S015",
+    "Course": "Data Structures",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S043",
+    "Course": "Signals",
+    "Credits": 2,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S104",
+    "Course": "Digital Electronics",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S130",
+    "Course": "Cloud Computing",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S047",
+    "Course": "Hydraulics",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S142",
+    "Course": "Manufacturing",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S072",
+    "Course": "Operating Systems",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S017",
+    "Course": "DBMS",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S142",
+    "Course": "Machine Design",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S134",
+    "Course": "EMF",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S068",
+    "Course": "Cyber Security",
+    "Credits": 2,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S040",
+    "Course": "Machine Learning",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S018",
+    "Course": "VLSI",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S011",
+    "Course": "DBMS",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S030",
+    "Course": "Data Structures",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S067",
+    "Course": "Communication Systems",
+    "Credits": 2,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S039",
+    "Course": "Thermodynamics",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S116",
+    "Course": "Web Technologies",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S120",
+    "Course": "Digital Electronics",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S007",
+    "Course": "Operating Systems",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S055",
+    "Course": "Data Mining",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S089",
+    "Course": "Digital Electronics",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S053",
+    "Course": "Software Engineering",
+    "Credits": 2,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S138",
+    "Course": "Control Systems",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S053",
+    "Course": "Cyber Security",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S139",
+    "Course": "Computer Networks",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S117",
+    "Course": "Transportation",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S130",
+    "Course": "AI",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S132",
+    "Course": "Data Structures",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S067",
+    "Course": "DSP",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S104",
+    "Course": "Embedded Systems",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S038",
+    "Course": "Thermodynamics",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S099",
+    "Course": "Communication Systems",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S006",
+    "Course": "EMF",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S017",
+    "Course": "Operating Systems",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S051",
+    "Course": "Cyber Security",
+    "Credits": 3,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S049",
+    "Course": "Algorithms",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S047",
+    "Course": "Environmental",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S084",
+    "Course": "Thermodynamics",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S139",
+    "Course": "Algorithms",
+    "Credits": 2,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S032",
+    "Course": "Fluid Mechanics",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S108",
+    "Course": "CAD",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S016",
+    "Course": "Machine Learning",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S096",
+    "Course": "Power Electronics",
+    "Credits": 2,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S008",
+    "Course": "Circuit Theory",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S021",
+    "Course": "Algorithms",
+    "Credits": 3,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S028",
+    "Course": "Algorithms",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S099",
+    "Course": "Embedded Systems",
+    "Credits": 2,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S080",
+    "Course": "Manufacturing",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S096",
+    "Course": "Control Systems",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S013",
+    "Course": "Software Engineering",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S038",
+    "Course": "Machine Design",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S080",
+    "Course": "Heat Transfer",
+    "Credits": 2,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S038",
+    "Course": "Manufacturing",
+    "Credits": 2,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S087",
+    "Course": "Operating Systems",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S120",
+    "Course": "Embedded Systems",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S027",
+    "Course": "VLSI",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S063",
+    "Course": "Geotechnical",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S039",
+    "Course": "Fluid Mechanics",
+    "Credits": 2,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S038",
+    "Course": "Heat Transfer",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S073",
+    "Course": "EMF",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S044",
+    "Course": "Heat Transfer",
+    "Credits": 2,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S135",
+    "Course": "Web Technologies",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S068",
+    "Course": "Data Mining",
+    "Credits": 2,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S143",
+    "Course": "Geotechnical",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S055",
+    "Course": "Data Mining",
+    "Credits": 2,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S079",
+    "Course": "Software Engineering",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S008",
+    "Course": "Machines",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S123",
+    "Course": "Environmental",
+    "Credits": 3,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S070",
+    "Course": "VLSI",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S052",
+    "Course": "DSP",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S014",
+    "Course": "Algorithms",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S107",
+    "Course": "VLSI",
+    "Credits": 3,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S106",
+    "Course": "CAD",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S097",
+    "Course": "Signals",
+    "Credits": 4,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S094",
+    "Course": "VLSI",
+    "Credits": 4,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S090",
+    "Course": "DSP",
+    "Credits": 4,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S123",
+    "Course": "Environmental",
+    "Credits": 2,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S055",
+    "Course": "Cyber Security",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S098",
+    "Course": "CAD",
+    "Credits": 2,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S064",
+    "Course": "Circuit Theory",
+    "Credits": 2,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S045",
+    "Course": "Thermodynamics",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S101",
+    "Course": "Cyber Security",
+    "Credits": 2,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S127",
+    "Course": "Communication Systems",
+    "Credits": 4,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S009",
+    "Course": "Operating Systems",
+    "Credits": 4,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S014",
+    "Course": "Data Structures",
+    "Credits": 2,
+    "Semester": 4
+  },
+  {
+    "Student_ID": "S099",
+    "Course": "Embedded Systems",
+    "Credits": 4,
+    "Semester": 2
+  },
+  {
+    "Student_ID": "S121",
+    "Course": "Manufacturing",
+    "Credits": 3,
+    "Semester": 5
+  },
+  {
+    "Student_ID": "S042",
+    "Course": "Fluid Mechanics",
+    "Credits": 3,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S017",
+    "Course": "DBMS",
+    "Credits": 2,
+    "Semester": 6
+  },
+  {
+    "Student_ID": "S104",
+    "Course": "VLSI",
+    "Credits": 2,
+    "Semester": 7
+  },
+  {
+    "Student_ID": "S073",
+    "Course": "Power Systems",
+    "Credits": 3,
+    "Semester": 1
+  },
+  {
+    "Student_ID": "S028",
+    "Course": "Machine Learning",
+    "Credits": 4,
+    "Semester": 8
+  },
+  {
+    "Student_ID": "S089",
+    "Course": "Communication Systems",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S050",
+    "Course": "Geotechnical",
+    "Credits": 4,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S106",
+    "Course": "Manufacturing",
+    "Credits": 3,
+    "Semester": 3
+  },
+  {
+    "Student_ID": "S092",
+    "Course": "Geotechnical",
+    "Credits": 4,
+    "Semester": ""
+  }
+]

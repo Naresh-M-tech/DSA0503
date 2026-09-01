@@ -1,0 +1,403 @@
+Student_ID,Course,Marks,Grade,Semester
+S113,Machines,77.9,B+,3
+S063,Structural Analysis,56.2,C,5
+S036,Signals,28.7,F,3
+S061,Digital Electronics,45.7,D,4
+S082,Environmental,46.1,D,2
+S007,Machine Learning,72.3,B+,6
+S142,Machine Design,23.4,F,2
+S105,Transportation,68.6,B,3
+S102,Power Electronics,33.1,F,3
+S020,Computer Networks,52.0,C,8
+S145,Environmental,,B,3
+S010,Operating Systems,22.2,F,4
+S095,Manufacturing,52.2,,1
+S149,Surveying,40.9,D,2
+S090,Signals,80.0,A,3
+S009,DBMS,150,F,2
+S046,EMF,84.7,A,6
+S072,Computer Networks,49.4,D,2
+S061,Digital Electronics,83.4,A,3
+S008,Power Electronics,64.3,B,3
+S052,Signals,,F,2
+S018,Digital Electronics,72.0,B+,7
+S094,Embedded Systems,30.3,,7
+S083,Surveying,56.5,C,3
+S148,Circuit Theory,56.7,C,3
+S047,Transportation,-20,A,1
+S116,Web Technologies,56.3,C,4
+S121,Manufacturing,57.9,C,8
+S033,EMF,56.9,C,8
+S032,Fluid Mechanics,26.2,F,1
+S100,DBMS,,F,4
+S043,Digital Electronics,32.6,F,8
+S135,Data Mining,77.9,,8
+S019,Manufacturing,28.5,F,2
+S106,Manufacturing,81.7,A,6
+S085,Power Systems,110,B+,8
+S138,Circuit Theory,94.2,A+,2
+S024,Cyber Security,85.6,A,1
+S095,Machine Design,46.1,D,2
+S007,Data Structures,78.2,B+,4
+S143,Hydraulics,,B,6
+S059,Surveying,66.2,B,4
+S060,Power Systems,62.8,B,5
+S043,VLSI,44.3,D,5
+S012,Power Electronics,40.1,D,2
+S031,Software Engineering,105.5,A,5
+S038,Heat Transfer,85.0,A,4
+S091,DSP,44.2,D,4
+S113,Machines,30.7,F,5
+S036,Communication Systems,53.9,C,2
+S144,Power Electronics,,B+,6
+S022,Operating Systems,44.5,D,1
+S098,Heat Transfer,92.9,A+,6
+S096,Power Electronics,49.8,D,7
+S149,Environmental,40.1,D,5
+S114,Computer Networks,absent,B,8
+S075,Heat Transfer,77.2,B+,1
+S141,Hydraulics,78.8,B+,8
+S062,Data Structures,89.7,A,3
+S007,Operating Systems,20.1,F,7
+S030,Machine Learning,,A,5
+S123,Transportation,27.0,F,6
+S039,Thermodynamics,47.9,D,3
+S057,Communication Systems,66.9,B,4
+S059,Hydraulics,26.8,F,2
+S034,Algorithms,999,C,3
+S058,Power Electronics,71.0,B+,1
+S025,Data Mining,45.8,D,2
+S083,Hydraulics,29.9,F,2
+S023,Communication Systems,26.7,F,2
+S110,Cyber Security,,D,5
+S028,Operating Systems,78.0,B+,3
+S104,Signals,59.8,C,1
+S027,Communication Systems,46.3,D,4
+S081,Software Engineering,66.2,B,8
+S066,Thermodynamics,87.2,A,0
+S120,Embedded Systems,74.8,B+,6
+S059,Transportation,79.3,B+,4
+S041,EMF,26.3,F,5
+S054,DSP,85.7,A,4
+S089,Embedded Systems,,C,7
+S035,Machine Learning,24.1,F,4
+S088,Software Engineering,28.5,F,8
+S108,Manufacturing,86.7,A,1
+S099,Digital Electronics,29.9,F,7
+S009,Computer Networks,71.2,B+,-1
+S108,Thermodynamics,64.1,B,1
+S046,Circuit Theory,23.0,F,1
+S074,Power Electronics,41.5,D,7
+S083,Hydraulics,50.2,C,3
+S049,Data Structures,43.2,D,4
+S006,Power Electronics,44.5,D,2
+S122,Machine Learning,52.8,C,4
+S132,Algorithms,26.5,F,7
+S071,Operating Systems,65.9,B,1
+S122,Machine Learning,75.6,B+,10
+S042,Thermodynamics,73.1,B+,1
+S086,Software Engineering,91.5,A+,5
+S027,Digital Electronics,29.5,F,5
+S042,Thermodynamics,45.1,D,7
+S137,Computer Networks,24.8,F,2
+S055,Software Engineering,58.3,C,1
+S055,AI,32.5,F,3
+S133,Web Technologies,87.1,A,2
+S023,DSP,58.2,C,1
+S002,VLSI,23.4,F,6
+S121,Fluid Mechanics,33.4,F,1
+S128,Machine Learning,75.5,B+,7
+S058,Control Systems,38.6,F,6
+S137,Data Structures,62.9,B,2
+S073,EMF,87.6,A,3
+S058,Power Electronics,93.6,A+,7
+S142,CAD,85.0,A,5
+S050,Structural Analysis,61.5,B,1
+S003,Algorithms,41.9,D,5
+S102,Machines,47.6,D,8
+S115,Data Mining,87.5,A,4
+S081,Web Technologies,89.9,A,1
+S145,Geotechnical,46.0,D,1
+S004,Data Structures,76.9,B+,7
+S119,Thermodynamics,35.4,F,4
+S094,Communication Systems,92.1,A+,3
+S049,Data Structures,23.3,F,4
+S082,Environmental,72.6,B+,6
+S015,Machine Learning,26.4,F,2
+S147,Circuit Theory,67.8,B,7
+S109,AI,62.6,B,7
+S087,Algorithms,41.9,D,6
+S113,EMF,82.4,A,6
+S107,Communication Systems,40.4,D,2
+S030,Algorithms,78.5,B+,2
+S006,Power Systems,32.3,F,8
+S052,Communication Systems,29.1,F,6
+S143,Environmental,43.1,D,5
+S042,Thermodynamics,31.8,F,5
+S125,Circuit Theory,82.7,A,6
+S091,Signals,73.3,B+,6
+S074,Power Electronics,23.7,F,5
+S056,Cloud Computing,22.3,F,7
+S095,Manufacturing,76.1,B+,4
+S097,Communication Systems,27.6,F,3
+S120,Signals,24.6,F,4
+S087,Algorithms,81.8,A,6
+S048,Computer Networks,64.0,B,2
+S105,Structural Analysis,34.8,F,8
+S038,Thermodynamics,87.9,A,6
+S120,Signals,90.7,A+,1
+S044,Manufacturing,52.5,C,7
+S055,Web Technologies,48.7,D,7
+S040,DBMS,36.1,F,3
+S041,Control Systems,53.5,C,3
+S076,Embedded Systems,66.4,B,4
+S035,Operating Systems,50.9,C,8
+S150,Data Structures,41.0,D,3
+S094,VLSI,68.2,B,4
+S138,Power Systems,94.2,A+,6
+S069,AI,78.6,B+,6
+S135,AI,44.1,D,5
+S018,Signals,43.9,D,4
+S124,Machine Design,24.4,F,8
+S051,Cyber Security,77.5,B+,4
+S123,Structural Analysis,38.6,F,4
+S106,Manufacturing,81.2,A,1
+S100,Computer Networks,83.5,A,7
+S130,Cloud Computing,33.2,F,6
+S116,AI,22.1,F,6
+S001,AI,30.7,F,4
+S088,AI,43.2,D,8
+S011,Data Structures,24.2,F,4
+S105,Geotechnical,55.8,C,6
+S030,Algorithms,45.6,D,3
+S111,Data Structures,21.6,F,3
+S026,Embedded Systems,84.6,A,2
+S017,Machine Learning,90.6,A+,7
+S141,Transportation,42.6,D,3
+S123,Hydraulics,91.2,A+,8
+S107,VLSI,73.0,B+,6
+S058,EMF,64.2,B,3
+S118,Cyber Security,75.0,B+,5
+S038,Fluid Mechanics,74.7,B+,7
+S001,Web Technologies,33.7,F,6
+S100,Machine Learning,62.4,B,8
+S104,Digital Electronics,75.9,B+,4
+S063,Transportation,32.6,F,2
+S004,Operating Systems,20.9,F,4
+S024,Data Mining,25.1,F,5
+S127,DSP,20.1,F,7
+S007,Machine Learning,51.5,C,3
+S078,Operating Systems,86.1,A,6
+S138,Machines,27.6,F,8
+S090,DSP,76.9,B+,4
+S086,Software Engineering,25.5,F,1
+S035,Data Structures,43.9,D,2
+S108,Machine Design,32.8,F,7
+S086,Data Mining,25.6,F,2
+S114,Computer Networks,93.9,A+,8
+S124,CAD,90.7,A+,3
+S126,VLSI,24.0,F,6
+S060,Circuit Theory,50.7,C,5
+S146,Cyber Security,37.8,F,1
+S113,Power Electronics,61.2,B,8
+S006,Power Systems,47.1,D,7
+S016,DBMS,81.8,A,8
+S030,Data Structures,21.9,F,3
+S012,Power Systems,55.5,C,2
+S119,CAD,55.3,C,5
+S098,Heat Transfer,60.8,B,3
+S003,Operating Systems,47.7,D,8
+S068,Cyber Security,53.0,C,5
+S058,Control Systems,62.3,B,3
+S097,Signals,70.1,B+,7
+S023,Embedded Systems,24.6,F,7
+S082,Environmental,92.4,A+,8
+S093,Fluid Mechanics,55.7,C,2
+S074,EMF,22.6,F,3
+S042,CAD,33.0,F,3
+S149,Surveying,29.5,F,7
+S053,Data Mining,52.7,C,3
+S056,Cyber Security,88.3,A,2
+S016,Operating Systems,61.7,B,6
+S041,Power Electronics,54.4,C,1
+S082,Environmental,28.4,F,3
+S091,Embedded Systems,64.1,B,2
+S127,Embedded Systems,78.5,B+,5
+S043,Digital Electronics,85.8,A,5
+S121,Heat Transfer,56.4,C,8
+S011,Algorithms,40.7,D,3
+S014,Data Structures,49.7,D,6
+S131,Power Systems,75.9,B+,5
+S017,Data Structures,45.3,D,5
+S122,DBMS,83.2,A,2
+S023,VLSI,42.5,D,8
+S111,DBMS,74.7,B+,2
+S092,Environmental,35.9,F,7
+S037,Power Electronics,85.0,A,1
+S067,VLSI,24.9,F,7
+S031,AI,85.9,A,1
+S040,Algorithms,85.6,A,4
+S132,Algorithms,22.5,F,1
+S099,DSP,34.9,F,6
+S070,Embedded Systems,49.8,D,2
+S124,Fluid Mechanics,47.9,D,8
+S112,Software Engineering,64.0,B,6
+S063,Surveying,82.8,A,5
+S098,Machine Design,22.1,F,1
+S086,AI,78.5,B+,4
+S100,Machine Learning,36.9,F,4
+S106,Heat Transfer,50.7,C,1
+S025,Software Engineering,88.4,A,3
+S025,Cloud Computing,38.9,F,5
+S041,Machines,87.2,A,6
+S015,DBMS,36.4,F,5
+S082,Geotechnical,49.8,D,2
+S129,AI,95.0,A+,6
+S084,Heat Transfer,64.5,B,5
+S008,EMF,28.1,F,2
+S114,DBMS,68.0,B,5
+S056,Data Mining,73.3,B+,5
+S092,Surveying,58.8,C,4
+S132,Computer Networks,50.3,C,6
+S028,Machine Learning,21.9,F,8
+S035,DBMS,88.0,A,7
+S072,Machine Learning,22.6,F,4
+S075,Heat Transfer,73.5,B+,8
+S116,AI,42.5,D,3
+S148,Circuit Theory,42.0,D,8
+S038,Heat Transfer,39.4,F,3
+S004,Machine Learning,26.7,F,6
+S058,EMF,85.4,A,7
+S020,DBMS,39.5,F,5
+S070,Signals,55.3,C,2
+S101,Cloud Computing,57.5,C,7
+S051,Cyber Security,51.0,C,3
+S028,Algorithms,45.7,D,8
+S104,Digital Electronics,84.7,A,3
+S053,Software Engineering,44.9,D,3
+S052,DSP,24.4,F,8
+S041,Circuit Theory,77.1,B+,3
+S090,VLSI,56.7,C,2
+S087,Computer Networks,52.5,C,7
+S144,Machines,92.4,A+,7
+S129,Web Technologies,60.0,B,6
+S002,Digital Electronics,76.8,B+,4
+S062,Machine Learning,20.3,F,4
+S058,EMF,85.8,A,5
+S087,Data Structures,48.8,D,5
+S027,Signals,81.8,A,5
+S012,Machines,74.6,B+,6
+S126,DSP,94.7,A+,6
+S032,Machine Design,76.3,B+,3
+S144,Power Systems,37.1,F,3
+S149,Hydraulics,21.6,F,3
+S120,Digital Electronics,73.3,B+,1
+S118,Data Mining,39.2,F,1
+S045,Heat Transfer,28.1,F,1
+S045,Heat Transfer,28.7,F,8
+S103,Web Technologies,61.0,B,8
+S006,Circuit Theory,72.1,B+,1
+S079,Software Engineering,69.6,B,5
+S028,Operating Systems,82.3,A,2
+S021,Machine Learning,66.3,B,5
+S071,Data Structures,57.3,C,4
+S046,Power Electronics,93.0,A+,6
+S033,Control Systems,32.0,F,8
+S143,Hydraulics,90.0,A+,6
+S131,Power Systems,21.0,F,2
+S026,Embedded Systems,70.2,B+,3
+S098,Manufacturing,25.6,F,2
+S133,Data Mining,37.3,F,5
+S046,Machines,23.8,F,3
+S125,Control Systems,47.0,D,6
+S059,Hydraulics,28.7,F,1
+S025,Cloud Computing,69.8,B,3
+S020,DBMS,87.1,A,5
+S098,Machine Design,81.1,A,3
+S071,Operating Systems,50.0,C,8
+S137,Operating Systems,71.7,B+,8
+S094,DSP,86.5,A,3
+S026,VLSI,72.2,B+,1
+S123,Structural Analysis,51.2,C,8
+S001,Data Mining,52.9,C,7
+S116,AI,22.2,F,3
+S029,Operating Systems,28.5,F,7
+S007,Data Structures,24.8,F,6
+S002,DSP,85.1,A,4
+S114,Computer Networks,59.2,C,2
+S010,Machine Learning,74.5,B+,8
+S063,Hydraulics,70.7,B+,7
+S081,AI,86.9,A,1
+S025,Data Mining,90.1,A+,8
+S088,Cloud Computing,25.6,F,8
+S111,Algorithms,44.8,D,5
+S045,Manufacturing,36.7,F,7
+S144,Circuit Theory,25.9,F,8
+S093,CAD,26.6,F,8
+S139,DBMS,28.9,F,8
+S062,Data Structures,50.3,C,1
+S148,Power Electronics,20.0,F,2
+S079,AI,62.2,B,8
+S075,Machine Design,81.9,A,4
+S022,DBMS,62.0,B,8
+S009,Machine Learning,53.9,C,2
+S100,Data Structures,45.6,D,5
+S019,Manufacturing,48.0,D,2
+S068,Cloud Computing,56.9,C,7
+S127,Digital Electronics,65.8,B,4
+S042,CAD,36.2,F,4
+S114,Data Structures,76.8,B+,1
+S120,Communication Systems,54.3,C,3
+S055,Web Technologies,59.8,C,1
+S128,Operating Systems,82.9,A,8
+S021,Algorithms,71.9,B+,3
+S038,Thermodynamics,49.1,D,6
+S147,Machines,51.4,C,4
+S041,Machines,92.3,A+,5
+S095,Fluid Mechanics,30.4,F,5
+S019,Machine Design,73.4,B+,4
+S030,Algorithms,66.8,B,5
+S063,Hydraulics,30.0,F,3
+S073,Power Electronics,72.1,B+,6
+S071,DBMS,62.2,B,7
+S136,Transportation,85.8,A,7
+S002,Embedded Systems,28.0,F,7
+S091,Signals,70.3,B+,4
+S106,Fluid Mechanics,93.8,A+,5
+S091,Signals,71.8,B+,5
+S060,Power Electronics,22.4,F,8
+S110,AI,85.1,A,4
+S084,CAD,37.8,F,5
+S045,CAD,49.1,D,6
+S128,Data Structures,21.0,F,5
+S030,Computer Networks,85.2,A,8
+S058,EMF,72.8,B+,6
+S138,EMF,65.3,B,4
+S035,Operating Systems,33.3,F,2
+S047,Surveying,75.1,B+,2
+S118,Web Technologies,52.1,C,5
+S087,Algorithms,63.8,B,5
+S129,Cyber Security,55.0,C,3
+S125,Circuit Theory,89.6,A,1
+S079,Software Engineering,79.2,B+,6
+S108,Heat Transfer,43.8,D,4
+S047,Geotechnical,25.1,F,3
+S036,Embedded Systems,60.3,B,2
+S061,VLSI,86.3,A,6
+S020,DBMS,42.0,D,8
+S084,Heat Transfer,20.7,F,6
+S139,Algorithms,87.8,A,4
+S125,EMF,86.4,A,7
+S071,Operating Systems,39.2,F,5
+S054,Embedded Systems,81.7,A,6
+S067,Embedded Systems,53.4,C,1
+S035,Machine Learning,34.4,F,2
+S097,VLSI,92.9,A+,1
+S096,Circuit Theory,70.3,B+,4
+S083,Structural Analysis,35.4,F,7
+S108,Heat Transfer,71.5,B+,1
+S015,Machine Learning,44.9,D,2
+S108,Thermodynamics,33.3,F,5
+S148,Power Systems,63.1,B,4
+S113,Machines,77.9,B+,3
+S047,Transportation,-20,A,1

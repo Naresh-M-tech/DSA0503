@@ -1,0 +1,608 @@
+[
+  {
+    "Student_ID": "S056",
+    "Placement_Status": "Placed",
+    "Company": "IBM",
+    "Package_LPA": 29.1
+  },
+  {
+    "Student_ID": "S033",
+    "Placement_Status": "Placed",
+    "Company": "Bosch",
+    "Package_LPA": 9.8
+  },
+  {
+    "Student_ID": "S072",
+    "Placement_Status": "Placed",
+    "Company": "IBM",
+    "Package_LPA": 43.3
+  },
+  {
+    "Student_ID": "S095",
+    "Placement_Status": "Placed",
+    "Company": "IBM",
+    "Package_LPA": 13.7
+  },
+  {
+    "Student_ID": "S144",
+    "Placement_Status": "Placed",
+    "Company": "Capgemini",
+    "Package_LPA": 15.0
+  },
+  {
+    "Student_ID": "S010",
+    "Placement_Status": "",
+    "Company": "IBM",
+    "Package_LPA": 39.9
+  },
+  {
+    "Student_ID": "S052",
+    "Placement_Status": "Placed",
+    "Company": "Oracle",
+    "Package_LPA": 35.7
+  },
+  {
+    "Student_ID": "S062",
+    "Placement_Status": "Placed",
+    "Company": "Google",
+    "Package_LPA": 10.8
+  },
+  {
+    "Student_ID": "S090",
+    "Placement_Status": "Placed",
+    "Company": "",
+    "Package_LPA": 39.1
+  },
+  {
+    "Student_ID": "S042",
+    "Placement_Status": "Placed",
+    "Company": "Tata Motors",
+    "Package_LPA": 11.7
+  },
+  {
+    "Student_ID": "S136",
+    "Placement_Status": "",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S129",
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": 40.5
+  },
+  {
+    "Student_ID": "S096",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S068",
+    "Placement_Status": "Placed",
+    "Company": "Bosch",
+    "Package_LPA": 27.5
+  },
+  {
+    "Student_ID": "S108",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S116",
+    "Placement_Status": "",
+    "Company": "Infosys",
+    "Package_LPA": 26.4
+  },
+  {
+    "Student_ID": "S073",
+    "Placement_Status": "Placed",
+    "Company": "Tata Motors",
+    "Package_LPA": 23.1
+  },
+  {
+    "Student_ID": "S127",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S012",
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 40.5
+  },
+  {
+    "Student_ID": "S079",
+    "Placement_Status": "Placed",
+    "Company": "HCL",
+    "Package_LPA": 9.1
+  },
+  {
+    "Student_ID": "S016",
+    "Placement_Status": "Placed",
+    "Company": "Wipro",
+    "Package_LPA": -5
+  },
+  {
+    "Student_ID": "S146",
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 38.7
+  },
+  {
+    "Student_ID": "S007",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S092",
+    "Placement_Status": "Placed",
+    "Company": "Amazon",
+    "Package_LPA": 34.9
+  },
+  {
+    "Student_ID": "S115",
+    "Placement_Status": "Placed",
+    "Company": "Amazon",
+    "Package_LPA": 10.9
+  },
+  {
+    "Student_ID": "S078",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 1000
+  },
+  {
+    "Student_ID": "S020",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S002",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S131",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S053",
+    "Placement_Status": "Placed",
+    "Company": "Oracle",
+    "Package_LPA": 5.2
+  },
+  {
+    "Student_ID": "S106",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": "high"
+  },
+  {
+    "Student_ID": "S026",
+    "Placement_Status": "Placed",
+    "Company": "Cognizant",
+    "Package_LPA": 18.8
+  },
+  {
+    "Student_ID": "S142",
+    "Placement_Status": "Placed",
+    "Company": "Flipkart",
+    "Package_LPA": 25.0
+  },
+  {
+    "Student_ID": "S017",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S032",
+    "Placement_Status": "Placed",
+    "Company": "L&T",
+    "Package_LPA": 40.1
+  },
+  {
+    "Student_ID": "S074",
+    "Placement_Status": "Placed",
+    "Company": "IBM",
+    "Package_LPA": 7.8
+  },
+  {
+    "Student_ID": "S014",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S083",
+    "Placement_Status": "Placed",
+    "Company": "Cognizant",
+    "Package_LPA": 38.1
+  },
+  {
+    "Student_ID": "S137",
+    "Placement_Status": "Placed",
+    "Company": "Tata Motors",
+    "Package_LPA": 27.2
+  },
+  {
+    "Student_ID": "S091",
+    "Placement_Status": "Placed",
+    "Company": "SAP",
+    "Package_LPA": 18.7
+  },
+  {
+    "Student_ID": "S107",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S051",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S081",
+    "Placement_Status": "Placed",
+    "Company": "SAP",
+    "Package_LPA": 43.9
+  },
+  {
+    "Student_ID": "S114",
+    "Placement_Status": "Placed",
+    "Company": "SAP",
+    "Package_LPA": 18.1
+  },
+  {
+    "Student_ID": "S139",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S009",
+    "Placement_Status": "Placed",
+    "Company": "Samsung",
+    "Package_LPA": 40.3
+  },
+  {
+    "Student_ID": "S111",
+    "Placement_Status": "Placed",
+    "Company": "Microsoft",
+    "Package_LPA": 21.8
+  },
+  {
+    "Student_ID": "S047",
+    "Placement_Status": "Placed",
+    "Company": "Reliance",
+    "Package_LPA": 30.2
+  },
+  {
+    "Student_ID": "S085",
+    "Placement_Status": "Placed",
+    "Company": "Amazon",
+    "Package_LPA": 10.0
+  },
+  {
+    "Student_ID": "S041",
+    "Placement_Status": "Placed",
+    "Company": "Google",
+    "Package_LPA": 30.9
+  },
+  {
+    "Student_ID": "S049",
+    "Placement_Status": "Placed",
+    "Company": "IBM",
+    "Package_LPA": 33.4
+  },
+  {
+    "Student_ID": "S055",
+    "Placement_Status": "Placed",
+    "Company": "Samsung",
+    "Package_LPA": 23.4
+  },
+  {
+    "Student_ID": "S150",
+    "Placement_Status": "Placed",
+    "Company": "Capgemini",
+    "Package_LPA": 4.4
+  },
+  {
+    "Student_ID": "S105",
+    "Placement_Status": "Placed",
+    "Company": "Bosch",
+    "Package_LPA": 28.1
+  },
+  {
+    "Student_ID": "S034",
+    "Placement_Status": "Placed",
+    "Company": "Reliance",
+    "Package_LPA": 5.1
+  },
+  {
+    "Student_ID": "S077",
+    "Placement_Status": "Placed",
+    "Company": "Infosys",
+    "Package_LPA": 10.4
+  },
+  {
+    "Student_ID": "S008",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S093",
+    "Placement_Status": "Placed",
+    "Company": "SAP",
+    "Package_LPA": 28.4
+  },
+  {
+    "Student_ID": "S080",
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 40.0
+  },
+  {
+    "Student_ID": "S113",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S125",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S006",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S110",
+    "Placement_Status": "Placed",
+    "Company": "Qualcomm",
+    "Package_LPA": 44.7
+  },
+  {
+    "Student_ID": "S040",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S089",
+    "Placement_Status": "Placed",
+    "Company": "Capgemini",
+    "Package_LPA": 28.4
+  },
+  {
+    "Student_ID": "S060",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S001",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S133",
+    "Placement_Status": "Placed",
+    "Company": "Reliance",
+    "Package_LPA": 14.5
+  },
+  {
+    "Student_ID": "S121",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S101",
+    "Placement_Status": "Placed",
+    "Company": "L&T",
+    "Package_LPA": 28.3
+  },
+  {
+    "Student_ID": "S098",
+    "Placement_Status": "Placed",
+    "Company": "SAP",
+    "Package_LPA": 19.5
+  },
+  {
+    "Student_ID": "S070",
+    "Placement_Status": "Placed",
+    "Company": "Flipkart",
+    "Package_LPA": 25.2
+  },
+  {
+    "Student_ID": "S038",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S097",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S132",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S122",
+    "Placement_Status": "Placed",
+    "Company": "Amazon",
+    "Package_LPA": 23.2
+  },
+  {
+    "Student_ID": "S082",
+    "Placement_Status": "Placed",
+    "Company": "Infosys",
+    "Package_LPA": 39.9
+  },
+  {
+    "Student_ID": "S054",
+    "Placement_Status": "Placed",
+    "Company": "Google",
+    "Package_LPA": 7.4
+  },
+  {
+    "Student_ID": "S130",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S145",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S011",
+    "Placement_Status": "Placed",
+    "Company": "TCS",
+    "Package_LPA": 40.7
+  },
+  {
+    "Student_ID": "S135",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S076",
+    "Placement_Status": "Placed",
+    "Company": "Reliance",
+    "Package_LPA": 21.0
+  },
+  {
+    "Student_ID": "S021",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S045",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S141",
+    "Placement_Status": "Placed",
+    "Company": "Samsung",
+    "Package_LPA": 36.3
+  },
+  {
+    "Student_ID": "S102",
+    "Placement_Status": "Placed",
+    "Company": "Bosch",
+    "Package_LPA": 36.9
+  },
+  {
+    "Student_ID": "S065",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S048",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S147",
+    "Placement_Status": "Placed",
+    "Company": "Capgemini",
+    "Package_LPA": 9.1
+  },
+  {
+    "Student_ID": "S046",
+    "Placement_Status": "Placed",
+    "Company": "Accenture",
+    "Package_LPA": 41.3
+  },
+  {
+    "Student_ID": "S027",
+    "Placement_Status": "Placed",
+    "Company": "Qualcomm",
+    "Package_LPA": 39.9
+  },
+  {
+    "Student_ID": "S086",
+    "Placement_Status": "Placed",
+    "Company": "Flipkart",
+    "Package_LPA": 3.7
+  },
+  {
+    "Student_ID": "S103",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S003",
+    "Placement_Status": "Placed",
+    "Company": "Reliance",
+    "Package_LPA": 8.4
+  },
+  {
+    "Student_ID": "S059",
+    "Placement_Status": "Placed",
+    "Company": "Flipkart",
+    "Package_LPA": 32.0
+  },
+  {
+    "Student_ID": "S063",
+    "Placement_Status": "Placed",
+    "Company": "Oracle",
+    "Package_LPA": 7.9
+  },
+  {
+    "Student_ID": "S148",
+    "Placement_Status": "Placed",
+    "Company": "Bosch",
+    "Package_LPA": 14.0
+  },
+  {
+    "Student_ID": "S050",
+    "Placement_Status": "Not Placed",
+    "Company": "",
+    "Package_LPA": 0
+  },
+  {
+    "Student_ID": "S084",
+    "Placement_Status": "Placed",
+    "Company": "Oracle",
+    "Package_LPA": 28.9
+  },
+  {
+    "Student_ID": "S095",
+    "Placement_Status": "Placed",
+    "Company": "IBM",
+    "Package_LPA": 13.7
+  }
+]

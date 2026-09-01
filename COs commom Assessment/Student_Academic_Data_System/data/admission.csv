@@ -1,0 +1,156 @@
+Student_ID,Name,Gender,Department,Email,Admission_Year
+S001,Meera Kumar,Male,IT,meera.kumar@college.edu,2019
+S002,Sneha Reddy,Female,ECE,sneha.reddy@gmail.com,2018
+S003,Ananya Gupta,Male,CSE,ananya.gupta@yahoo.com,2022
+S004,Komal Bhatt,Male,,komal.bhatt@hotmail.com,2021
+S005,Lakshmi Rao,Male,CIVIL,lakshmi.rao@gmail.com,2021
+S006,,Female,EEE,lakshmi.nair@yahoo.com,2018
+S007,Nitin Reddy,Female,CSE,nitin.reddy@college.edu,2022
+S008,Rahul Tiwari,,EEE,rahul.tiwari@hotmail.com,2021
+S009,Megha Verma,Male,CSE,,2018
+S010,Sanjay Joshi,Male,CSE,sanjay.joshi@college.edu,2019
+S011,  ARUN   KUMAR  ,Female,CSE,nitin.singh@hotmail.com,2019
+S012,Deepak Gupta,Male,EEE,deepak.gupta@college.edu,2022
+S013,,Male,IT,karthik.chauhan@yahoo.com,2021
+S014,Lakshmi Sen,Female,,lakshmi.sen@yahoo.com,2018
+S015,Rahul Rao,Female,cse,rahul.rao@college.edu,2020
+S016,rahul sharma,Male,CSE,pooja.sen@college.edu,2021
+S017,Divya Pandey,Female,C.S.E,divya.pandey@yahoo.com,2019
+S018,Sneha Chauhan,,ECE,sneha.chauhan@college.edu,2022
+S019,Anjali Joshi,Female,MECH,,2018
+S020,Meera Nair,Female,Computer Science,meera.nair@yahoo.com,2022
+S021,SNEHA  PATEL,Female,CSE,nitin.mishra@hotmail.com,2022
+S022,Ananya Tiwari,Female,CSE,ananya.tiwari@gmail.com,2020
+S023,Vijay Choudhary,Female,ece,vijay.choudhary@yahoo.com,2018
+S024,,Male,IT,nitin.singh@yahoo.com,2020
+S025,Mohit Sinha,Male,IT,mohit.sinha@yahoo.com,2020
+S026,Vikram^Reddy,Female,ECE,gaurav.bhatt@gmail.com,2021
+S027,Meera Sen,Female,E.C.E,meera.sen@college.edu,2019
+S028,Kavita Mukherjee,Male,CSE,kavita.mukherjee@gmail.com,2021
+S029,Aakash Chauhan,Male,CSE,,2021
+S030,Karthik Singh,Male,Electronics,karthik.singh@hotmail.com,2022
+S031,ananya nair,Female,IT,vikas.gupta@college.edu,2020
+S032,Kavya Pandey,Male,MECH,kavya.pandey@gmail.com,2019
+S033,Pallavi Kumar,Male,eee,pallavi.kumar@yahoo.com,2018
+S034,Komal Bhatt,Male,,komal.bhatt@gmail.com,2018
+S035,,Female,CSE,pallavi.patel@yahoo.com,2021
+S036,Ravi@Iyer,Male,ECE,gaurav.nair@hotmail.com,2021
+S037,Amit Reddy,Female,E.E.E,amit.reddy@gmail.com,2020
+S038,Prakash Pandey,Male,MECH,prakash.pandey@gmail.com,2018
+S039,Nitin Das,Male,MECH,,2019
+S040,Gaurav Pandey,Female,Electrical,gaurav.pandey@yahoo.com,2019
+S041,  meera  gupta  ,Female,EEE,nisha.joshi@gmail.com,2022
+S042,Sneha Bhatt,Male,mech,sneha.bhatt@gmail.com,2019
+S043,Sanjay#Singh,Male,ECE,prakash.malhotra@hotmail.com,2021
+S044,Karthik Mishra,Female,M.E.C.H,karthik.mishra@gmail.com,2020
+S045,DIVYA VERMA,Male,MECH,vijay.choudhary@hotmail.com,2019
+S046,,Female,EEE,pooja.sharma@gmail.com,2018
+S047,Riya Malhotra,Male,civil,riya.malhotra@yahoo.com,2022
+S048,Neha Patel,Male,CSE,neha.patel@gmail.com,2021
+S049,Karthik  Das,Male,CSE,,2021
+S050,Riya Mehta,Female,C.I.V.I.L,riya.mehta@college.edu,2019
+S051,NEHA RAO,Female,IT,komal.das@yahoo.com,2021
+S052,Sanjay Bhatt,Female,ECE,sanjay.bhatt@college.edu,2020
+S053,Arun Pandey,Male,it,arun.pandey@gmail.com,2022
+S054,Mohit Singh,Female,ECE,invalid-email,2018
+S055,Anjali Verma,Female,I.T,anjali.verma@yahoo.com,2022
+S056,amit mishra,Female,IT,shreya.sinha@gmail.com,2018
+S057,,Male,ECE,rajesh.reddy@gmail.com,2020
+S058,Rohan Gupta,Male,EEE,missing@at,2020
+S059,Tanvi Singh,Male,CIVIL,tanvi.singh@gmail.com,2021
+S060,Rahul Kumar,Male,EEE,rahul.kumar@college.edu,2020
+S061,Pooja! Choudhary,Male,ECE,sneha.pandey@hotmail.com,2018
+S062,Vikas Mukherjee,Male,CSE,@nodomain.com,2020
+S063,Megha Nair,Male,CIVIL,megha.nair@hotmail.com,2018
+S064,Anjali Mukherjee,Female,EEE,spaces in@email.com,2019
+S065,Kavita Desai,Female,IT,kavita.desai@gmail.com,2022
+S066,  Suresh  Pandey  ,Male,MECH,pooja.tiwari@yahoo.com,2019
+S067,Prakash Kumar,Female,ECE,no-domain,2021
+S068,,Female,IT,sneha.rao@yahoo.com,2019
+S069,Ravi Mishra,Female,IT,missing_at_sign.com,2019
+S070,Nisha Rao,Male,ECE,nisha.rao@college.edu,2019
+S071,Kavita&Malhotra,Female,CSE,sanjay.gupta@hotmail.com,2020
+S072,Mitali Singh,Female,CSE,mitali.singh@college.edu,2022
+S073,Priya Reddy,Male,EEE,priya.reddy@college.edu,2022
+S074,Rahul Reddy,Female,EEE,rahul.reddy@hotmail.com,2020
+S075,Rohan Kapoor,Female,MECH,rohan.kapoor@gmail.com,2022
+S076,Rajesh Sharma,Male,ECE,rajesh.sharma@hotmail.com,2022
+S077,Ananya Tiwari,Female,CIVIL,ananya.tiwari@yahoo.com,2021
+S078,Sanjay Sen,Female,CSE,sanjay.sen@college.edu,2018
+S079,,Female,IT,shreya.kapoor@college.edu,2020
+S080,Vikas Verma,Male,MECH,vikas.verma@yahoo.com,2021
+S081,Nitin Desai,Female,IT,nitin.desai@yahoo.com,2021
+S082,Arun Verma,Male,CIVIL,arun.verma@college.edu,2021
+S083,Rohan Bhatt,Female,CIVIL,rohan.bhatt@college.edu,2021
+S084,Ananya Gupta,Male,MECH,ananya.gupta@hotmail.com,2018
+S085,Mohit Desai,Male,EEE,mohit.desai@college.edu,2019
+S086,Shreya Joshi,Male,IT,shreya.joshi@yahoo.com,2018
+S087,Kavita Malhotra,Female,CSE,kavita.malhotra@gmail.com,2021
+S088,Ashish Gupta,Female,IT,ashish.gupta@hotmail.com,2021
+S089,Divya Bhatt,Male,ECE,divya.bhatt@gmail.com,2021
+S090,,Male,ECE,neha.rao@hotmail.com,2022
+S091,Meera Pandey,Female,ECE,meera.pandey@yahoo.com,2022
+S092,Rohan Das,Female,CIVIL,rohan.das@hotmail.com,2022
+S093,Karthik Tiwari,Female,MECH,karthik.tiwari@hotmail.com,2020
+S094,Raj Singh,Male,ECE,raj.singh@hotmail.com,2020
+S095,Vikram Thakur,Male,MECH,vikram.thakur@college.edu,2020
+S096,Manish Mukherjee,Male,EEE,manish.mukherjee@gmail.com,2019
+S097,Nitin Thakur,Male,ECE,nitin.thakur@yahoo.com,2018
+S098,Prakash Das,Female,MECH,prakash.das@hotmail.com,2018
+S099,Prakash Mishra,Female,ECE,prakash.mishra@gmail.com,2021
+S100,Deepak Verma,Female,CSE,deepak.verma@hotmail.com,2022
+S101,,Female,IT,sneha.chauhan@yahoo.com,2019
+S102,Ritu Malhotra,Female,EEE,ritu.malhotra@gmail.com,2020
+S103,Ananya Rao,Male,IT,ananya.rao@hotmail.com,2021
+S104,Pooja Chauhan,Female,ECE,pooja.chauhan@gmail.com,2022
+S105,Sanjay Kumar,Female,CIVIL,sanjay.kumar@gmail.com,2019
+S106,Neha Sharma,Female,MECH,neha.sharma@college.edu,2020
+S107,Nisha Das,Female,ECE,nisha.das@college.edu,2020
+S108,Rajesh Menon,Female,MECH,rajesh.menon@gmail.com,2018
+S109,Gaurav Sharma,Male,IT,gaurav.sharma@college.edu,2018
+S110,Rahul Bhatt,Male,IT,rahul.bhatt@gmail.com,2019
+S111,Pooja Nair,Male,CSE,pooja.nair@yahoo.com,2021
+S112,Meera Mehta,Female,IT,meera.mehta@yahoo.com,2020
+S113,Karthik Sinha,Male,EEE,karthik.sinha@gmail.com,2020
+S114,Riya Kumar,Female,CSE,riya.kumar@college.edu,2021
+S115,Amit Patel,Male,IT,amit.patel@yahoo.com,2020
+S116,Rohan Rao,Male,IT,rohan.rao@gmail.com,2020
+S117,Ritu Desai,Male,CIVIL,ritu.desai@college.edu,2022
+S118,Pallavi Kumar,Female,IT,pallavi.kumar@hotmail.com,2018
+S119,Anjali Bhatt,Male,MECH,anjali.bhatt@hotmail.com,2021
+S120,Nitin Kapoor,Female,ECE,nitin.kapoor@college.edu,2021
+S121,Nitin Mehta,Female,MECH,nitin.mehta@college.edu,2019
+S122,Lakshmi Mukherjee,Male,CSE,lakshmi.mukherjee@hotmail.com,2021
+S123,Pooja Desai,Female,CIVIL,pooja.desai@hotmail.com,2018
+S124,Manish Iyer,Male,MECH,manish.iyer@hotmail.com,2020
+S125,Pallavi Singh,Male,EEE,pallavi.singh@college.edu,2022
+S126,Ananya Joshi,Female,ECE,ananya.joshi@hotmail.com,2022
+S127,Vikas Malhotra,Female,ECE,vikas.malhotra@hotmail.com,2018
+S128,Vijay Joshi,Male,CSE,vijay.joshi@hotmail.com,2020
+S129,Riya Rao,Female,IT,riya.rao@hotmail.com,2021
+S130,Megha Das,Female,IT,megha.das@college.edu,2020
+S131,Rajesh Joshi,Male,EEE,rajesh.joshi@gmail.com,2020
+S132,Sneha Chauhan,Male,CSE,sneha.chauhan@yahoo.com,2019
+S133,Aditya Singh,Male,IT,aditya.singh@college.edu,2019
+S134,Suresh Rao,Female,EEE,suresh.rao@yahoo.com,2018
+S135,Gaurav Nair,Male,IT,gaurav.nair@college.edu,2018
+S136,Vijay Thakur,Female,CIVIL,vijay.thakur@yahoo.com,2018
+S137,Ashish Verma,Female,CSE,ashish.verma@hotmail.com,2021
+S138,Neha Sharma,Female,EEE,neha.sharma@college.edu,2018
+S139,Simran Malhotra,Male,CSE,simran.malhotra@gmail.com,2019
+S140,Ashish Verma,Male,ECE,ashish.verma@gmail.com,2018
+S141,Aakash Choudhary,Female,CIVIL,aakash.choudhary@yahoo.com,2021
+S142,Shreya Pillai,Female,MECH,shreya.pillai@hotmail.com,2022
+S143,Sneha Sinha,Male,CIVIL,sneha.sinha@gmail.com,2019
+S144,Sanjay Patel,Male,EEE,sanjay.patel@yahoo.com,2019
+S145,Vikram Iyer,Female,CIVIL,vikram.iyer@gmail.com,2021
+S146,Rohan Malhotra,Male,IT,rohan.malhotra@college.edu,2019
+S147,Komal Verma,Male,EEE,komal.verma@hotmail.com,2019
+S148,Raj Mehta,Female,EEE,raj.mehta@yahoo.com,2018
+S149,Suresh Bhatt,Female,CIVIL,suresh.bhatt@yahoo.com,2019
+S150,Sneha Iyer,Female,CSE,sneha.iyer@college.edu,2021
+S006,,Female,EEE,lakshmi.nair@yahoo.com,2018
+S021,Nitin Mishra,Female,CSE,nitin.mishra@hotmail.com,2022
+S031,Vikas Gupta,Female,IT,vikas.gupta@college.edu,2020
+S010,Arun Kumr,Male,cse,arun.kumr@gmail.com,2021
+S025,  PRIYA   SHARMA  ,Female,C.S.E,priya.sharma,2020

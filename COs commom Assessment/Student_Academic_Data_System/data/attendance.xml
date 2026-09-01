@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<records>
+  <record>
+    <Student_ID>S113</Student_ID>
+    <Course>Power Electronics</Course>
+    <Attendance>87.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S008</Student_ID>
+    <Course>Power Electronics</Course>
+    <Attendance>66.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S021</Student_ID>
+    <Course>Computer Networks</Course>
+    <Attendance>74.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S135</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>73.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S062</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>66.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S026</Student_ID>
+    <Course>Communication Systems</Course>
+    <Attendance></Attendance>
+  </record>
+  <record>
+    <Student_ID>S054</Student_ID>
+    <Course>Embedded Systems</Course>
+    <Attendance>73.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S134</Student_ID>
+    <Course>Power Electronics</Course>
+    <Attendance>61.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S057</Student_ID>
+    <Course>Embedded Systems</Course>
+    <Attendance>74.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S013</Student_ID>
+    <Course>Data Mining</Course>
+    <Attendance>86.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S103</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>91.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S102</Student_ID>
+    <Course>Power Systems</Course>
+    <Attendance>78.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S026</Student_ID>
+    <Course>VLSI</Course>
+    <Attendance>50.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S052</Student_ID>
+    <Course>Communication Systems</Course>
+    <Attendance>57.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S060</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>75.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S101</Student_ID>
+    <Course>Data Mining</Course>
+    <Attendance>86.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S028</Student_ID>
+    <Course>Computer Networks</Course>
+    <Attendance>60.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S050</Student_ID>
+    <Course>Hydraulics</Course>
+    <Attendance>73.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S118</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>105.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S015</Student_ID>
+    <Course>Computer Networks</Course>
+    <Attendance>67.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S130</Student_ID>
+    <Course>Data Mining</Course>
+    <Attendance></Attendance>
+  </record>
+  <record>
+    <Student_ID>S046</Student_ID>
+    <Course>Power Electronics</Course>
+    <Attendance>74.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S024</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>77.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S058</Student_ID>
+    <Course>Control Systems</Course>
+    <Attendance>88.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S143</Student_ID>
+    <Course>Hydraulics</Course>
+    <Attendance>85.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S107</Student_ID>
+    <Course>Communication Systems</Course>
+    <Attendance>67.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S041</Student_ID>
+    <Course>Control Systems</Course>
+    <Attendance>56.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S138</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>94.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S074</Student_ID>
+    <Course>Control Systems</Course>
+    <Attendance>-10</Attendance>
+  </record>
+  <record>
+    <Student_ID>S091</Student_ID>
+    <Course>Digital Electronics</Course>
+    <Attendance>52.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S053</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>96.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S133</Student_ID>
+    <Course>Data Mining</Course>
+    <Attendance>74.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S030</Student_ID>
+    <Course>Computer Networks</Course>
+    <Attendance>63.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S084</Student_ID>
+    <Course>Heat Transfer</Course>
+    <Attendance>63.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S127</Student_ID>
+    <Course>Embedded Systems</Course>
+    <Attendance>87.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S064</Student_ID>
+    <Course>Circuit Theory</Course>
+    <Attendance></Attendance>
+  </record>
+  <record>
+    <Student_ID>S051</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>81.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S057</Student_ID>
+    <Course>Signals</Course>
+    <Attendance>70.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S101</Student_ID>
+    <Course>Web Technologies</Course>
+    <Attendance>84.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S028</Student_ID>
+    <Course>Data Structures</Course>
+    <Attendance>98.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S123</Student_ID>
+    <Course>Environmental</Course>
+    <Attendance>82.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S065</Student_ID>
+    <Course>Software Engineering</Course>
+    <Attendance>82.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S077</Student_ID>
+    <Course>Transportation</Course>
+    <Attendance>64.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S150</Student_ID>
+    <Course>Data Structures</Course>
+    <Attendance>82.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S145</Student_ID>
+    <Course>Geotechnical</Course>
+    <Attendance>86.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S011</Student_ID>
+    <Course>Algorithms</Course>
+    <Attendance>70.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S112</Student_ID>
+    <Course>Web Technologies</Course>
+    <Attendance>99.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S074</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>59.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S012</Student_ID>
+    <Course>Power Systems</Course>
+    <Attendance>200</Attendance>
+  </record>
+  <record>
+    <Student_ID>S001</Student_ID>
+    <Course>AI</Course>
+    <Attendance>55.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S004</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance></Attendance>
+  </record>
+  <record>
+    <Student_ID>S138</Student_ID>
+    <Course>Power Electronics</Course>
+    <Attendance>74.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S031</Student_ID>
+    <Course>AI</Course>
+    <Attendance>73.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S005</Student_ID>
+    <Course>Structural Analysis</Course>
+    <Attendance>66.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S015</Student_ID>
+    <Course>Machine Learning</Course>
+    <Attendance>62.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S047</Student_ID>
+    <Course>Structural Analysis</Course>
+    <Attendance>86.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S035</Student_ID>
+    <Course>Computer Networks</Course>
+    <Attendance>83.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S005</Student_ID>
+    <Course>Surveying</Course>
+    <Attendance>80.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S144</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>75.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S016</Student_ID>
+    <Course>Operating Systems</Course>
+    <Attendance>83.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S047</Student_ID>
+    <Course>Surveying</Course>
+    <Attendance>N/A</Attendance>
+  </record>
+  <record>
+    <Student_ID>S024</Student_ID>
+    <Course>Web Technologies</Course>
+    <Attendance>63.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S131</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>87.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S020</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>79.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S093</Student_ID>
+    <Course>Thermodynamics</Course>
+    <Attendance>63.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S099</Student_ID>
+    <Course>DSP</Course>
+    <Attendance></Attendance>
+  </record>
+  <record>
+    <Student_ID>S042</Student_ID>
+    <Course>CAD</Course>
+    <Attendance>65.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S144</Student_ID>
+    <Course>EMF</Course>
+    <Attendance>75.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S122</Student_ID>
+    <Course>Machine Learning</Course>
+    <Attendance>55.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S035</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>80.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S100</Student_ID>
+    <Course>Algorithms</Course>
+    <Attendance>73.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S022</Student_ID>
+    <Course>Machine Learning</Course>
+    <Attendance>99.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S017</Student_ID>
+    <Course>Operating Systems</Course>
+    <Attendance>85.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S101</Student_ID>
+    <Course>AI</Course>
+    <Attendance>90.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S066</Student_ID>
+    <Course>Fluid Mechanics</Course>
+    <Attendance>84.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S053</Student_ID>
+    <Course>AI</Course>
+    <Attendance>72.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S099</Student_ID>
+    <Course>Signals</Course>
+    <Attendance>95.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S026</Student_ID>
+    <Course>Signals</Course>
+    <Attendance>91.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S147</Student_ID>
+    <Course>Circuit Theory</Course>
+    <Attendance>78.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S081</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>66.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S082</Student_ID>
+    <Course>Environmental</Course>
+    <Attendance></Attendance>
+  </record>
+  <record>
+    <Student_ID>S060</Student_ID>
+    <Course>EMF</Course>
+    <Attendance>79.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S098</Student_ID>
+    <Course>Manufacturing</Course>
+    <Attendance>72.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S132</Student_ID>
+    <Course>Operating Systems</Course>
+    <Attendance>56.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S036</Student_ID>
+    <Course>Communication Systems</Course>
+    <Attendance>78.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S084</Student_ID>
+    <Course>CAD</Course>
+    <Attendance>83.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S119</Student_ID>
+    <Course>Heat Transfer</Course>
+    <Attendance>51.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S133</Student_ID>
+    <Course>Web Technologies</Course>
+    <Attendance>87.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S134</Student_ID>
+    <Course>Power Systems</Course>
+    <Attendance>52.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S063</Student_ID>
+    <Course>Hydraulics</Course>
+    <Attendance>53.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S150</Student_ID>
+    <Course>Data Structures</Course>
+    <Attendance>99.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S101</Student_ID>
+    <Course>Web Technologies</Course>
+    <Attendance>64.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S018</Student_ID>
+    <Course>VLSI</Course>
+    <Attendance>88.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S094</Student_ID>
+    <Course>Digital Electronics</Course>
+    <Attendance>99.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S103</Student_ID>
+    <Course>Software Engineering</Course>
+    <Attendance>93.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S118</Student_ID>
+    <Course>Software Engineering</Course>
+    <Attendance>54.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S085</Student_ID>
+    <Course>Circuit Theory</Course>
+    <Attendance>82.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S061</Student_ID>
+    <Course>Signals</Course>
+    <Attendance>58.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S043</Student_ID>
+    <Course>Communication Systems</Course>
+    <Attendance>76.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S058</Student_ID>
+    <Course>Power Systems</Course>
+    <Attendance>87.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S008</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>83.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S138</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>76.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S023</Student_ID>
+    <Course>VLSI</Course>
+    <Attendance>73.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S006</Student_ID>
+    <Course>Control Systems</Course>
+    <Attendance>59.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S026</Student_ID>
+    <Course>Signals</Course>
+    <Attendance>90.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S094</Student_ID>
+    <Course>Embedded Systems</Course>
+    <Attendance>88.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S062</Student_ID>
+    <Course>Algorithms</Course>
+    <Attendance>60.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S141</Student_ID>
+    <Course>Geotechnical</Course>
+    <Attendance>51.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S045</Student_ID>
+    <Course>Fluid Mechanics</Course>
+    <Attendance>87.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S014</Student_ID>
+    <Course>Operating Systems</Course>
+    <Attendance>61.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S066</Student_ID>
+    <Course>Thermodynamics</Course>
+    <Attendance>57.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S012</Student_ID>
+    <Course>Circuit Theory</Course>
+    <Attendance>90.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S090</Student_ID>
+    <Course>Digital Electronics</Course>
+    <Attendance>78.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S111</Student_ID>
+    <Course>Algorithms</Course>
+    <Attendance>65.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S104</Student_ID>
+    <Course>DSP</Course>
+    <Attendance>76.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S078</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>63.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S148</Student_ID>
+    <Course>Power Electronics</Course>
+    <Attendance>94.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S040</Student_ID>
+    <Course>Machine Learning</Course>
+    <Attendance>83.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S148</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>52.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S063</Student_ID>
+    <Course>Hydraulics</Course>
+    <Attendance>83.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S013</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>84.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S033</Student_ID>
+    <Course>Circuit Theory</Course>
+    <Attendance>65.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S047</Student_ID>
+    <Course>Geotechnical</Course>
+    <Attendance>73.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S058</Student_ID>
+    <Course>Control Systems</Course>
+    <Attendance>92.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S104</Student_ID>
+    <Course>Communication Systems</Course>
+    <Attendance>95.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S084</Student_ID>
+    <Course>CAD</Course>
+    <Attendance>98.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S148</Student_ID>
+    <Course>Power Electronics</Course>
+    <Attendance>56.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S102</Student_ID>
+    <Course>Control Systems</Course>
+    <Attendance>60.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S053</Student_ID>
+    <Course>Software Engineering</Course>
+    <Attendance>92.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S098</Student_ID>
+    <Course>Manufacturing</Course>
+    <Attendance>86.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S092</Student_ID>
+    <Course>Structural Analysis</Course>
+    <Attendance>63.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S125</Student_ID>
+    <Course>Power Systems</Course>
+    <Attendance>59.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S084</Student_ID>
+    <Course>Fluid Mechanics</Course>
+    <Attendance>74.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S004</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>97.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S002</Student_ID>
+    <Course>VLSI</Course>
+    <Attendance>96.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S042</Student_ID>
+    <Course>Heat Transfer</Course>
+    <Attendance>100.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S069</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>84.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S060</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>95.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S128</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>88.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S103</Student_ID>
+    <Course>Software Engineering</Course>
+    <Attendance>76.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S116</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>63.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S067</Student_ID>
+    <Course>Communication Systems</Course>
+    <Attendance>73.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S101</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>95.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S003</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>70.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S135</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>87.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S062</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>77.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S140</Student_ID>
+    <Course>Embedded Systems</Course>
+    <Attendance>86.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S035</Student_ID>
+    <Course>Algorithms</Course>
+    <Attendance>59.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S023</Student_ID>
+    <Course>Communication Systems</Course>
+    <Attendance>78.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S102</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>77.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S114</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>88.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S032</Student_ID>
+    <Course>Heat Transfer</Course>
+    <Attendance>82.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S032</Student_ID>
+    <Course>CAD</Course>
+    <Attendance>58.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S130</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>57.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S138</Student_ID>
+    <Course>Machines</Course>
+    <Attendance>59.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S085</Student_ID>
+    <Course>EMF</Course>
+    <Attendance>97.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S013</Student_ID>
+    <Course>Web Technologies</Course>
+    <Attendance>92.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S109</Student_ID>
+    <Course>Data Mining</Course>
+    <Attendance>52.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S129</Student_ID>
+    <Course>Software Engineering</Course>
+    <Attendance>56.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S145</Student_ID>
+    <Course>Structural Analysis</Course>
+    <Attendance>85.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S025</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>75.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S017</Student_ID>
+    <Course>Data Structures</Course>
+    <Attendance>80.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S029</Student_ID>
+    <Course>Machine Learning</Course>
+    <Attendance>74.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S129</Student_ID>
+    <Course>AI</Course>
+    <Attendance>77.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S002</Student_ID>
+    <Course>Signals</Course>
+    <Attendance>76.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S041</Student_ID>
+    <Course>Power Electronics</Course>
+    <Attendance>98.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S062</Student_ID>
+    <Course>Computer Networks</Course>
+    <Attendance>90.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S010</Student_ID>
+    <Course>Algorithms</Course>
+    <Attendance>55.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S097</Student_ID>
+    <Course>Embedded Systems</Course>
+    <Attendance>57.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S005</Student_ID>
+    <Course>Geotechnical</Course>
+    <Attendance>76.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S130</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>89.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S053</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>98.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S015</Student_ID>
+    <Course>Computer Networks</Course>
+    <Attendance>62.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S058</Student_ID>
+    <Course>Control Systems</Course>
+    <Attendance>84.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S053</Student_ID>
+    <Course>Data Mining</Course>
+    <Attendance>99.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S076</Student_ID>
+    <Course>Signals</Course>
+    <Attendance>70.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S118</Student_ID>
+    <Course>AI</Course>
+    <Attendance>73.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S025</Student_ID>
+    <Course>Data Mining</Course>
+    <Attendance>58.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S055</Student_ID>
+    <Course>Software Engineering</Course>
+    <Attendance>82.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S020</Student_ID>
+    <Course>Computer Networks</Course>
+    <Attendance>98.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S097</Student_ID>
+    <Course>Embedded Systems</Course>
+    <Attendance>96.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S023</Student_ID>
+    <Course>VLSI</Course>
+    <Attendance>95.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S001</Student_ID>
+    <Course>Software Engineering</Course>
+    <Attendance>63.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S109</Student_ID>
+    <Course>Data Mining</Course>
+    <Attendance>96.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S138</Student_ID>
+    <Course>Power Electronics</Course>
+    <Attendance>82.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S112</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>50.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S143</Student_ID>
+    <Course>Geotechnical</Course>
+    <Attendance>57.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S074</Student_ID>
+    <Course>Power Systems</Course>
+    <Attendance>65.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S135</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>78.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S072</Student_ID>
+    <Course>Machine Learning</Course>
+    <Attendance>94.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S020</Student_ID>
+    <Course>Operating Systems</Course>
+    <Attendance>87.8</Attendance>
+  </record>
+  <record>
+    <Student_ID>S028</Student_ID>
+    <Course>Machine Learning</Course>
+    <Attendance>86.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S073</Student_ID>
+    <Course>EMF</Course>
+    <Attendance>98.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S057</Student_ID>
+    <Course>Signals</Course>
+    <Attendance>71.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S109</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>80.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S074</Student_ID>
+    <Course>Control Systems</Course>
+    <Attendance>51.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S137</Student_ID>
+    <Course>Operating Systems</Course>
+    <Attendance>74.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S116</Student_ID>
+    <Course>AI</Course>
+    <Attendance>97.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S010</Student_ID>
+    <Course>Algorithms</Course>
+    <Attendance>84.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S103</Student_ID>
+    <Course>Web Technologies</Course>
+    <Attendance>88.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S035</Student_ID>
+    <Course>Algorithms</Course>
+    <Attendance>85.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S048</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>57.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S006</Student_ID>
+    <Course>EMF</Course>
+    <Attendance>69.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S099</Student_ID>
+    <Course>Signals</Course>
+    <Attendance>54.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S119</Student_ID>
+    <Course>CAD</Course>
+    <Attendance>68.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S137</Student_ID>
+    <Course>Data Structures</Course>
+    <Attendance>56.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S047</Student_ID>
+    <Course>Environmental</Course>
+    <Attendance>72.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S148</Student_ID>
+    <Course>Power Electronics</Course>
+    <Attendance>70.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S054</Student_ID>
+    <Course>Signals</Course>
+    <Attendance>67.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S098</Student_ID>
+    <Course>Manufacturing</Course>
+    <Attendance>79.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S050</Student_ID>
+    <Course>Environmental</Course>
+    <Attendance>50.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S078</Student_ID>
+    <Course>Operating Systems</Course>
+    <Attendance>89.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S084</Student_ID>
+    <Course>Fluid Mechanics</Course>
+    <Attendance>78.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S044</Student_ID>
+    <Course>Heat Transfer</Course>
+    <Attendance>69.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S028</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>65.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S088</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>53.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S126</Student_ID>
+    <Course>Digital Electronics</Course>
+    <Attendance>71.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S029</Student_ID>
+    <Course>Data Structures</Course>
+    <Attendance>68.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S024</Student_ID>
+    <Course>Data Mining</Course>
+    <Attendance>81.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S115</Student_ID>
+    <Course>Software Engineering</Course>
+    <Attendance>55.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S079</Student_ID>
+    <Course>Web Technologies</Course>
+    <Attendance>97.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S004</Student_ID>
+    <Course>Computer Networks</Course>
+    <Attendance>69.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S020</Student_ID>
+    <Course>Operating Systems</Course>
+    <Attendance>66.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S031</Student_ID>
+    <Course>Cyber Security</Course>
+    <Attendance>66.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S030</Student_ID>
+    <Course>Operating Systems</Course>
+    <Attendance>65.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S074</Student_ID>
+    <Course>Control Systems</Course>
+    <Attendance>64.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S032</Student_ID>
+    <Course>Manufacturing</Course>
+    <Attendance>89.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S050</Student_ID>
+    <Course>Environmental</Course>
+    <Attendance>64.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S113</Student_ID>
+    <Course>Control Systems</Course>
+    <Attendance>55.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S135</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>79.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S138</Student_ID>
+    <Course>Circuit Theory</Course>
+    <Attendance>84.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S019</Student_ID>
+    <Course>Thermodynamics</Course>
+    <Attendance>97.7</Attendance>
+  </record>
+  <record>
+    <Student_ID>S070</Student_ID>
+    <Course>DSP</Course>
+    <Attendance>60.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S012</Student_ID>
+    <Course>EMF</Course>
+    <Attendance>53.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S033</Student_ID>
+    <Course>EMF</Course>
+    <Attendance>75.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S079</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>62.6</Attendance>
+  </record>
+  <record>
+    <Student_ID>S006</Student_ID>
+    <Course>EMF</Course>
+    <Attendance>71.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S118</Student_ID>
+    <Course>Web Technologies</Course>
+    <Attendance>72.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S069</Student_ID>
+    <Course>AI</Course>
+    <Attendance>70.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S147</Student_ID>
+    <Course>EMF</Course>
+    <Attendance>70.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S011</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>85.1</Attendance>
+  </record>
+  <record>
+    <Student_ID>S043</Student_ID>
+    <Course>Embedded Systems</Course>
+    <Attendance>81.9</Attendance>
+  </record>
+  <record>
+    <Student_ID>S048</Student_ID>
+    <Course>Data Structures</Course>
+    <Attendance>88.4</Attendance>
+  </record>
+  <record>
+    <Student_ID>S130</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>82.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S068</Student_ID>
+    <Course>AI</Course>
+    <Attendance>99.2</Attendance>
+  </record>
+  <record>
+    <Student_ID>S014</Student_ID>
+    <Course>DBMS</Course>
+    <Attendance>98.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S010</Student_ID>
+    <Course>Data Structures</Course>
+    <Attendance>50.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S056</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>75.5</Attendance>
+  </record>
+  <record>
+    <Student_ID>S089</Student_ID>
+    <Course>Embedded Systems</Course>
+    <Attendance>79.0</Attendance>
+  </record>
+  <record>
+    <Student_ID>S090</Student_ID>
+    <Course>VLSI</Course>
+    <Attendance>72.3</Attendance>
+  </record>
+  <record>
+    <Student_ID>S103</Student_ID>
+    <Course>Cloud Computing</Course>
+    <Attendance>91.1</Attendance>
+  </record>
+</records>
